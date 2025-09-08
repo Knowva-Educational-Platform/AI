@@ -90,22 +90,4 @@ By integrating these features, the AI module reduces teacher workload, improves 
 ✅ **End-to-End Automation**: From quiz creation to grading and feedback.  
 ✅ **Educator-Centric**: Designed to save teachers time, not add extra steps.  
 ✅ **Personalized Insights**: Both individual (students) and group-level (teachers).  
-✅ **Scalable**: NLP-driven pipeline adapts to any subject domain.  
-
----
-
-## 🚀 Getting Started (AI Module)
-```bash
-# clone the repo
-git clone https://github.com/<your-username>/<repo-name>.git
-
-# create virtual environment
-python -m venv venv
-source venv/bin/activate   # on mac/linux
-venv\Scripts\activate      # on windows
-
-# install dependencies
-pip install -r requirements.txt
-
-# run API server
-uvicorn app.main:app --reload
+✅ **Scalable**: NLP-driven pipeline adapts to any subject domain. 
